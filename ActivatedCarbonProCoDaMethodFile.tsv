@@ -1,0 +1,23 @@
+OFF		0.000000	constant
+ON		1.000000	constant
+Plant flow	mL/s	0.506700	constant
+Duration of run	s	5.000000	constant
+Duration of warmup	s	1.000000	constant
+data interval	s	5.000000	constant
+water pump ID		2.000000	constant
+coag pump ID		1.000000	constant
+on state		12.000000	constant
+water volume per rev 	mL/rev	2.800000	constant
+coag volume per rev	mL/rev	0.148800	constant
+water flow	mL/s	0.000827	variable
+coag flow	mL/s	0.000000	variable
+water pump control	rpm	0.744000	variable
+coag pump control	rpm	10.840138	variable
+state to increment		2.000000	constant
+coefficient	mL/s	0.000827	constant
+base		2.000000	constant
+max x		5.000000	constant
+reps		2.000000	constant
+max x + 1		3.000000	variable
+max cycles		10.000000	variable
+cycles		0.000000	variable
