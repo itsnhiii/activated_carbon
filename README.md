@@ -1,4 +1,4 @@
-# activated_carbon
+# Activated Carbon
 
 ## 2022 Spring Team Members:
 
@@ -18,10 +18,10 @@ Malini Balachandran - mvb37@cornell.edu
 
 [Final Report](https://colab.research.google.com/drive/1253ggOwb8i1s7s8zFRNjVCiiNt3AJpn-?authuser=1)
 
-## Spring 2021
+### Spring 2021
 [Report 1](https://github.com/AguaClara/activated_carbon/blob/master/Activated_Carbon_Spring2021_Report_1.ipynb)
 
 [Report 2](https://github.com/AguaClara/activated_carbon/blob/master/Activated_Carbon_Spring2021_Report_2.ipynb)
 
-## Spring 2020
+### Spring 2020
 [Final Report](https://github.com/AguaClara/activated_carbon/blob/master/Spring_2020_Report.ipynb)
