@@ -1,5 +1,7 @@
 # Activated Carbon
 
+The Activated Carbon Subteam aims to find if the use of activated carbon would be efficient to use in AguaClara water treatment plants in order to remove dissolved organic solutes. If so, we intend to calculate an optimal dosage of activated carbon. This team is part of AguaClara’s Particle Removal and Dissolved Species subteams. In the future, Activated Carbon hopes to upscale the process to be implemented in AguaClara plants. 
+
 ## 2022 Spring Team Members:
 
 Ian Lillie - iml34@cornell.edu
