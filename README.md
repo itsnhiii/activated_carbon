@@ -18,6 +18,8 @@ Malini Balachandran - mvb37@cornell.edu
 ### Spring 2022
 [Report 1](https://github.com/AguaClara/activated_carbon/blob/master/Activated_Carbon_Spring2022_Report1.ipynb)
 
+[Report 2](https://github.com/AguaClara/activated_carbon/blob/a5acc9e5fddd7b79a22b9e6db114028719ea5895/Activated_Carbon_Spring2022_Report2.ipynb)
+
 ### Fall 2021
 [Final Presentation](https://docs.google.com/presentation/d/1s7D-8j-rxH2ygAG3tnOkbUDn1UIWNDCTzpiTk4OvMWk/edit?usp=sharing)
 
