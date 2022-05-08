@@ -10,6 +10,8 @@ Annie Hsu - yh533@cornell.edu
 
 Nhi Nguyen - npn25@cornell.edu
 
+Zachary Kwon - zk49@cornell.edu
+
 ## Research Advisor:
 Malini Balachandran - mvb37@cornell.edu
 
@@ -19,6 +21,8 @@ Malini Balachandran - mvb37@cornell.edu
 [Report 1](https://github.com/AguaClara/activated_carbon/blob/master/Activated_Carbon_Spring2022_Report1.ipynb)
 
 [Report 2](https://github.com/AguaClara/activated_carbon/blob/a5acc9e5fddd7b79a22b9e6db114028719ea5895/Activated_Carbon_Spring2022_Report2.ipynb)
+
+[Report 3](https://github.com/AguaClara/activated_carbon/blob/b7cd0a6ce1b46b70910023fbd092cb69c0443665/Activated_Carbon_Spring2022_Report3.ipynb)
 
 ### Fall 2021
 [Final Presentation](https://docs.google.com/presentation/d/1s7D-8j-rxH2ygAG3tnOkbUDn1UIWNDCTzpiTk4OvMWk/edit?usp=sharing)
